@@ -1,4 +1,4 @@
-# Thinking in React
+# [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 > Theo quan điểm của chúng tôi, React, là một cách tốt để xây dựng những ứng dụng web với JavaScript. Nó đã mở rộng rất tốt cho các sản phẩm Facebook và Instagram.
 
